@@ -1,0 +1,25 @@
+[bot]
+
+token = ""
+
+
+owners = []
+
+[logs]
+
+show_datetime = true
+
+
+datetime_format = "%Y-%m-%d %H:%M:%S"
+
+
+show_debug_logs = true
+
+
+time_in_utc = false
+
+
+renderer = "console"
+
+
+use_colors_in_console = true
